@@ -1,6 +1,6 @@
 # portfolio-optimization-python
 Python notebook for ARIMA forecasting and portfolio optimization in finance
-## 📌 Project Overview
+## Project Overview
 This project predicts stock volatility and builds an optimized multi-asset portfolio using **ARIMA forecasting** and **Modern Portfolio Theory (Markowitz)**.  
 
 - **Stocks analyzed**: Apple (AAPL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN)  
@@ -9,20 +9,20 @@ This project predicts stock volatility and builds an optimized multi-asset portf
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - Python (pandas, numpy, statsmodels, matplotlib)  
 - Jupyter Notebook  
 
 ---
 
-## 📊 Key Results
+## Key Results
 - Forecasted volatility of selected stocks using ARIMA  
 - Constructed efficient portfolios with different risk-return profiles  
 - Visualized efficient frontier and optimal allocation  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository  
 2. Install required libraries:  
    ```bash
